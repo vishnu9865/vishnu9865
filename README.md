@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jeyavishnu.S
-- 👀 I’m interested in Web and Mobile App Development. ( React Native, Spring Boot, Firebase)
-- 🌱 I’m currently learning ReactJS, Node JS, MongoDB, Java SE, JSP, DSA.
-- 💞️ I’m looking to collaborate on App Projects and Ideas.
+- 👋 Hi, I’m Jeyavishnu
+- 👀 I’m interested in Web and Mobile App Development. ( MERN Stack JAM Stack, React Native, Spring Boot, Firebase)
+- 🌱 I’m currently learning ReactJS, Node JS, MongoDB, Java SE, DSA.
+- 💞️ I’m looking to collaborate on Projects and Ideas.
 - 📫 You can reach me on <a href="https://in.linkedin.com/in/vishnu9865">LinkedIn</a>.
 
 <!---
